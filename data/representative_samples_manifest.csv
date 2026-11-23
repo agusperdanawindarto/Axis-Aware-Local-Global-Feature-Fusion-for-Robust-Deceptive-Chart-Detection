@@ -1,0 +1,10 @@
+panel,category,label,source_split,relative_path,group,source_sha256,orig_dimensions
+a,srtAxY,0,train,Chart lie detector dataset/chart_srtAxY_93_VBA.jpg,8153,f8a21101dc88b0e8378cc227b25e39e19fb11655ae0c9e5bb746fc76377b5265,1229x741
+b,srtAxY,1,train,Chart lie detector dataset/srtAxY_329_VBA.jpg,6797,806fd56a60c938a1c71428bd0a5d4039fe0dc96c0c04910fe0e0f00286cd7a7e,1229x741
+c,twoYaxes,0,train,Chart lie detector dataset/chart_twoYaxes_173_VBA_line.jpg,22758,14e31b16bc9a38576a9065e7ab795ce3de5643a399f98ae37ab1f21aa30ff595,1229x741
+d,twoYaxes,1,train,Chart lie detector dataset/twoYaxes_266_bar_PY.png,23170,fa277aa47252c8afac37f010418f1e00c479169e9ac37511acfd7878cf613139,640x480
+e,3dpie,0,train,Chart lie detector dataset/chart_3dpie_632_VBA.jpg,2861,b17ac6121e1b70cd4bfabc0b9c564d5c24fc823749649339e051ef6cd873b246,1843x1106
+f,3dpie,1,train,Chart lie detector dataset/3dpie_921_VBA.jpg,3824,530a1f0908e5c37f42f770453e4dd84de704872fb99196e1cf23ff877aadfc99,1845x1108
+g,trdStck,0,train,Chart lie detector dataset/chart_trdStck_1010_25_VBA.jpg,8327,6ef290d10811e98430d413e7a517376fbf5b8fab262f5546d22ebfcf314ef838,1845x1108
+h,trdStck,1,train,Chart lie detector dataset/trdStck_708_VBA.jpg,11929,1b36dcff6a720eded397a6ff5d1da7e906690db72d4da3a5ccc54ce9b7c88283,1229x741
+i,colNoScl,1,train,Chart lie detector dataset/colNoScl_3_252_PY.png,15663,fe2655f3f4a933f542ddf264737b73cc2c578c28ef23345fa1a6d6c7b6824d1f,640x480
