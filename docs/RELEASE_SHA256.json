@@ -1,5 +1,5 @@
 {
-  "created_utc": "2026-11-23T03:50:34.978175+00:00",
+  "created_utc": "2026-11-23T04:02:47.471047+00:00",
   "verified_runs": 15,
   "raw_artifacts": 90,
   "files": {
@@ -50,6 +50,10 @@
     "docs/references.bib": {
       "sha256": "8c0e30b450dc58e01a17ba0196c47fcd2afb9bdda4afc5c105f02bb1911049e8",
       "size_bytes": 6513
+    },
+    "docs/RESULTS_AND_DISCUSSION.md": {
+      "sha256": "20f31a416dc708bb2692f2f165964a3d8f1fd47de26a33d4ebff5ce111e61f96",
+      "size_bytes": 8404
     },
     "docs/RQ_CONTRIBUTIONS.md": {
       "sha256": "d3b8a7d0c017fc2c7adeccbf19628aa6c3272c3046114bd69feb0a872eedd5c4",
