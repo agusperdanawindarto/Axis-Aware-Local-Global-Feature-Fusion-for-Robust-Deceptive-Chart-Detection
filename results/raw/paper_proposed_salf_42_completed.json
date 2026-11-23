@@ -1,0 +1,40 @@
+{
+  "signature": "875d1b9e39833a97e882b22b22d8a6dc536b4c08e29bad494ebde30d419fc419",
+  "config": {
+    "name": "proposed_salf",
+    "seed": 42,
+    "mode": "paper",
+    "epochs": 20,
+    "res": 256,
+    "batch": 2,
+    "grad_accum": 8,
+    "dino": "vit_large_patch16_dinov3.lvd1689m",
+    "swin": "swinv2_tiny_window16_256.ms_in1k",
+    "split": "c8fc29542853326611668612b0444b7c044853e9ca483c591fba65bbc86b4d7a",
+    "repo": "WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset",
+    "aug": true,
+    "patience": 5,
+    "min_delta": 0.0005,
+    "min_epochs": 5,
+    "training_protocol": "frozen-backbone-resume-v2-kaggle"
+  },
+  "metrics": {
+    "accuracy": 0.9765277215702145,
+    "balanced_accuracy": 0.9765487897100783,
+    "macro_precision": 0.9765000779737825,
+    "macro_recall": 0.9765487897100783,
+    "macro_f1": 0.9765218730341791,
+    "deceptive_recall": 0.9777594728171335,
+    "model": "proposed_salf",
+    "seed": 42,
+    "mode": "paper",
+    "epochs_completed": 20,
+    "best_epoch": 19,
+    "early_stopped": false,
+    "resolution": 256,
+    "params_m": 311.483394,
+    "trainable_params_m": 8.40397,
+    "eval_images_per_second": 13.525922127855198,
+    "val_best_macro_f1": 0.97443611547478
+  }
+}

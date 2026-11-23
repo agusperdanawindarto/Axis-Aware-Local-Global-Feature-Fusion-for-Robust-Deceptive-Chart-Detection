@@ -1,0 +1,27 @@
+# Dataset, user material, and model weights do not belong in Git.
+local_artifacts/
+private_manuscript/
+data/raw/
+data/DVCS/
+data/*.zip
+data/*.csv
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.zip
+# Runtime / credentials
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+cache/
+kaggle.json
+.env
+.env.*
+secrets.json
+token.json
+.DS_Store
+Thumbs.db

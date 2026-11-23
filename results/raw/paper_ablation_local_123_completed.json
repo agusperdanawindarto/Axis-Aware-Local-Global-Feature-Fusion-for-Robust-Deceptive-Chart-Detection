@@ -1,0 +1,40 @@
+{
+  "signature": "04e6ddffb4de3d78d60dfc2b3d31ea45b4d7e252e46feab3a2d0e7cfa248def0",
+  "config": {
+    "name": "ablation_local",
+    "seed": 123,
+    "mode": "paper",
+    "epochs": 20,
+    "res": 256,
+    "batch": 2,
+    "grad_accum": 8,
+    "dino": "vit_large_patch16_dinov3.lvd1689m",
+    "swin": "swinv2_tiny_window16_256.ms_in1k",
+    "split": "c8fc29542853326611668612b0444b7c044853e9ca483c591fba65bbc86b4d7a",
+    "repo": "WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset",
+    "aug": true,
+    "patience": 5,
+    "min_delta": 0.0005,
+    "min_epochs": 5,
+    "training_protocol": "frozen-backbone-resume-v2-kaggle"
+  },
+  "metrics": {
+    "accuracy": 0.971266693646297,
+    "balanced_accuracy": 0.9713918366865488,
+    "macro_precision": 0.9712510170630756,
+    "macro_recall": 0.9713918366865488,
+    "macro_f1": 0.971263982808281,
+    "deceptive_recall": 0.9785831960461285,
+    "model": "ablation_local",
+    "seed": 123,
+    "mode": "paper",
+    "epochs_completed": 20,
+    "best_epoch": 19,
+    "early_stopped": false,
+    "resolution": 256,
+    "params_m": 311.483394,
+    "trainable_params_m": 8.40397,
+    "eval_images_per_second": 12.51688286773022,
+    "val_best_macro_f1": 0.9703783560263325
+  }
+}
