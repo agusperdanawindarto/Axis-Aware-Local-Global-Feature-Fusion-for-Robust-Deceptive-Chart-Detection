@@ -1,0 +1,91 @@
+{
+  "manuscript": "SALF-DINO_IEEE_FINAL_MENDELEY_TOP_TIER_WITH_QUALITATIVE_IMAGES.docx",
+  "manuscript_sha256": "60efff88c59294fa692314762f73d96543f072943fb2aa47eff0024dc96db483",
+  "figure_count": 7,
+  "figures": [
+    {
+      "paper_id": "Figure 1",
+      "path": "figures/paper/Figure_01_Research_Framework.png",
+      "caption": "Research framework of the proposed study, showing HVPD-DVCS auditing, matched model comparisons, fault-tolerant training, and test-set analysis.",
+      "sha256": "a8ac956f27f436809cdc3ac26494d75e2ee19be1e6d817bc929fbb1dfd8ea02c",
+      "pixels": [
+        820,
+        609
+      ],
+      "bytes": 602056,
+      "docx_media": "word/media/image3.png"
+    },
+    {
+      "paper_id": "Figure 2",
+      "path": "figures/paper/Figure_02_SALF_DINO_Architecture.png",
+      "caption": "Proposed SALF-DINO architecture showing the global DINOv3 pathway, fixed chart-border region attention, local depthwise-convolutional refinement, and gated residual fusion before binary classification.",
+      "sha256": "952fda3b2bab324fd337caeeeb67e9010614a6dc5992ecd048b972b1967f4a66",
+      "pixels": [
+        1399,
+        787
+      ],
+      "bytes": 1229602,
+      "docx_media": "word/media/image4.png"
+    },
+    {
+      "paper_id": "Figure 3",
+      "path": "figures/paper/Figure_03_Test_MacroF1_3Seeds.png",
+      "caption": "Test macro-F1 (mean \u00b1 sample standard deviation across three independent seeds) for the five completed experimental configurations.",
+      "sha256": "f46796c4fc8e67d0cfadac6e76404c96aa5a38d05ac5c62483454120b2973034",
+      "pixels": [
+        3205,
+        1900
+      ],
+      "bytes": 155621,
+      "docx_media": "word/media/image5.png"
+    },
+    {
+      "paper_id": "Figure 4",
+      "path": "figures/paper/Figure_04_srtAxY_Misclassifications.png",
+      "caption": "Mean number of srtAxY misclassifications per seed on the identical 872-chart test subset (lower is better).",
+      "sha256": "c0ee36cdaa44bbe7f1ac989a63b74a839d0bb0dee499acd8e46536b8ebf65444",
+      "pixels": [
+        3087,
+        1840
+      ],
+      "bytes": 142369,
+      "docx_media": "word/media/image6.png"
+    },
+    {
+      "paper_id": "Figure 5",
+      "path": "figures/paper/Figure_05_Controlled_Corruption_Robustness.png",
+      "caption": "Mean held-out macro-F1 under JPEG compression, Gaussian blur, and downsampling/upsampling, averaged over three seeds.",
+      "sha256": "06718633dd586b88a951bcbf9ab89b87208822449e8aa0fed51676a26791513a",
+      "pixels": [
+        3035,
+        1940
+      ],
+      "bytes": 137339,
+      "docx_media": "word/media/image7.png"
+    },
+    {
+      "paper_id": "Supplementary Figure S1",
+      "path": "figures/paper/Figure_S1_Genuine_HVPD_DVCS_srtAxY_Samples.png",
+      "caption": "Genuine HVPD-DVCS training examples for the srtAxY category: (a) non-deceptive and (b) deceptive. Labels and file hashes were verified against the audited split; neither panel depicts a model prediction.",
+      "sha256": "f34e49bb98295e691904c0a5ad98e3c592485d66c8562d927bc48fe545a96cb4",
+      "pixels": [
+        2600,
+        1000
+      ],
+      "bytes": 1141343,
+      "docx_media": "word/media/image13.png"
+    },
+    {
+      "paper_id": "Supplementary Figure S2",
+      "path": "figures/paper/Figure_S2_Heldout_srtAxY_Corrected_Errors_Seed42.png",
+      "caption": "Two genuine held-out srtAxY chart images (seed 42): (a) a false positive and (b) a false negative of DINOv3 global pooling, both correctly classified by SALF-DINO. Panels were selected deterministically; see the source manifest for file hashes and probability scores.",
+      "sha256": "8a956552da2e979f83ce292ca7bbcfa9bbee048dc49510ff61ee7ae80d2cf123",
+      "pixels": [
+        2640,
+        1100
+      ],
+      "bytes": 74649,
+      "docx_media": "word/media/image14.png"
+    }
+  ]
+}
