@@ -1,5 +1,17 @@
 # Axis-Aware Local–Global Feature Fusion for Robust Deceptive Chart Detection
 
+## Interim follow-up experiment evidence (26 November 2026)
+
+**20 of 21 planned model-seed runs validated**: original 15/15, content-region control 3/3, additive residual control 2/3. The third additive residual seed (2025) is pending. The original 23 November release below is retained as a historical evidence snapshot. Follow-up experiments reuse the same held-out benchmark and were designed after inspecting the initial results; they are exploratory, not external validation.
+
+| Control | Validated seeds | Test macro-F1 mean +/- sample SD | Trainable parameters |
+|---|---|---:|---:|
+| Content-ranked regional pooling | 42, 123, 2025 | 97.07 +/- 0.23% | 8,403,970 |
+| Additive residual (no multiplicative gate) | 42, 123 only | 96.94 +/- 0.14% | 8,403,970 |
+
+The content-region comparison favors SALF-DINO by +0.46 percentage points (95% paired group-bootstrap interval +0.14 to +0.81, as reported in the interim manuscript); the additive residual contrast is descriptive (+0.71 pp on two matched seeds), with final inference pending. See [follow-up evidence](results/followup_20261126/) and [per-seed metrics](results/followup_20261126/per_seed_metrics.csv). Updated manuscript figures and the final 21-run analysis are not yet part of the public release.
+
+
 **Research repository for the IEEE Access manuscript**  
 **Proposed method:** **SALF-DINO** (discussed inside the paper, not used as the paper-title prefix)  
 **Evidence release:** 23 November 2026 · **15/15 validated experiments**
