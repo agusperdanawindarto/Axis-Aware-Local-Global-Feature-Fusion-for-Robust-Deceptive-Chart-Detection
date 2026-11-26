@@ -1,0 +1,150 @@
+[
+  {
+    "path": "figures/final_20261126/Figure_01_Research_Framework.png",
+    "sha256": "6e0337c8ac8f801219cb0e6d3504aa97c9c00d883a107ffc9ae7dd5589183490",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4770,
+      2984
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_01_Research_Framework.svg",
+    "sha256": "2331b859f07c70cc9c60907c817124c66dab967795a2bac2d9713f12655cee98",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_01_Research_Framework.pdf",
+    "sha256": "9f8470e13e9d76bcf2f7324cf145f3ac0967c33a8ff38db48e6652b32725a119",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_02_Baselines_vs_Proposed.png",
+    "sha256": "869755e51a1ff7abfaeba4d5ed33ad6b3411f7b95d2601f7e2df859b99079130",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4770,
+      2984
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_02_Baselines_vs_Proposed.svg",
+    "sha256": "409898f9772eb085a9d029d02e33a87388509b3cd626a6ad1bef90c21102d0c2",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_02_Baselines_vs_Proposed.pdf",
+    "sha256": "88a320eb37fbee58b6379359d17aafdf214df66fe5d5c291ddb35ff16f445b9a",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_03_Test_MacroF1.png",
+    "sha256": "1157098682fe25a4e2f24d76265d50a172b640077e350946ba32fa3d8bd0cfae",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4530,
+      2113
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_03_Test_MacroF1.svg",
+    "sha256": "b8bcca917e2a11005ce7424ad70e14209a0837e04408f3db47df976d5eca871c",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_03_Test_MacroF1.pdf",
+    "sha256": "d0f83eca378f534572fb1b6ac6144fa8460769c174907e261c1a787ed797ff16",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_04_srtAxY_Errors.png",
+    "sha256": "d3f9ac4404c93aa1fcee28cf7526d935a77917d5665959214355c1d0a0c1a46f",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4530,
+      2113
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_04_srtAxY_Errors.svg",
+    "sha256": "b4915fb70a95d9cf6c39e363ae364bece143d651e1dc15a35a089ca96172874f",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_04_srtAxY_Errors.pdf",
+    "sha256": "1994a7934bab0661d989c8c919539022c4efee4eb9fe484a1715db24da07933c",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_05_Corruption_Robustness.png",
+    "sha256": "ea330a952e9d7bb424feb58234a3bbd9d520eafcdba19963cf00589058c5ec99",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4240,
+      2722
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_05_Corruption_Robustness.svg",
+    "sha256": "7992bce59d0c4c0014c53684b131adc32422899c5abeb31456651d533ded09da",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_05_Corruption_Robustness.pdf",
+    "sha256": "e304ca4412a4051922053e49c1df564867ed636c19c5f1f7e95182db6c123d5a",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_S3_Paired_Bootstrap.png",
+    "sha256": "c1b3abfa48db0b38c94fc3c5f657961dc5a203da57d642070b04d18ea100d303",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript.",
+    "pixels": [
+      4623,
+      2205
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  {
+    "path": "figures/final_20261126/Figure_S3_Paired_Bootstrap.svg",
+    "sha256": "fc2e5c45dec9d38658b1ae43db8699ff00198f8096e1582cf5f2e79f2a3ce59e",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/final_20261126/Figure_S3_Paired_Bootstrap.pdf",
+    "sha256": "a3b410704fcbca62ce1cd714b28c4932a9688c8def3f9df78116478712aa6e8c",
+    "source": "Regenerated from final tables or verified implementation; not extracted from a final manuscript."
+  },
+  {
+    "path": "figures/paper/Figure_S1_Genuine_HVPD_DVCS_srtAxY_Samples.png",
+    "sha256": "f34e49bb98295e691904c0a5ad98e3c592485d66c8562d927bc48fe545a96cb4",
+    "source": "Previously archived genuine chart panel; see original paper figure source map and data provenance manifests."
+  },
+  {
+    "path": "figures/paper/Figure_S2_Heldout_srtAxY_Corrected_Errors_Seed42.png",
+    "sha256": "8a956552da2e979f83ce292ca7bbcfa9bbee048dc49510ff61ee7ae80d2cf123",
+    "source": "Previously archived genuine chart panel; see original paper figure source map and data provenance manifests."
+  }
+]

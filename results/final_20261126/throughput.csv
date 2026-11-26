@@ -1,0 +1,8 @@
+model,label,total_params_m,trainable_params_m,images_per_second
+proposed_salf,SALF-DINO,311.483394,8.40397,13.278156542132745
+ablation_axis,Axis-only,311.483394,8.40397,12.971225009864163
+ablation_local,Local-only,311.483394,8.40397,12.375465785013814
+dinov3_global_avg,DINOv3 global,303.081474,0.00205,11.342278030767751
+swinv2_tiny,SwinV2 Tiny,27.579692,0.001538,30.73117313130111
+control_content_matched,Content-region control,311.483394,8.40397,12.976066408173457
+control_additive_no_gate,Additive residual control,311.483394,8.40397,12.848881274471252

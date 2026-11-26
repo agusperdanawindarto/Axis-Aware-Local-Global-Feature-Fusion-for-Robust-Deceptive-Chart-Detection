@@ -1,0 +1,35 @@
+{
+  "generated": "2026-11-26T07:14:32.439061+00:00",
+  "original_15_untouched": true,
+  "new_6_verified": true,
+  "source_test_group_count": 733,
+  "bootstrap_seed": 3407,
+  "bootstrap_replicates": 2000,
+  "comparisons": [
+    {
+      "proposed": "proposed_salf",
+      "control": "control_content_matched",
+      "seeds": 3,
+      "test_images": 2471,
+      "heldout_groups": 733,
+      "bootstrap_replicates": 2000,
+      "observed_difference_pct_points": 0.458569798356645,
+      "bootstrap_ci95_lower_pp": 0.11958842995356748,
+      "bootstrap_ci95_upper_pp": 0.8271870330652943,
+      "seed_differences_pp": "[0.8493, 0.4446, 0.0818]"
+    },
+    {
+      "proposed": "proposed_salf",
+      "control": "control_additive_no_gate",
+      "seeds": 3,
+      "test_images": 2471,
+      "heldout_groups": 733,
+      "bootstrap_replicates": 2000,
+      "observed_difference_pct_points": 0.5940428014231447,
+      "bootstrap_ci95_lower_pp": 0.18948733925707217,
+      "bootstrap_ci95_upper_pp": 1.003003085115103,
+      "seed_differences_pp": "[0.8098, 0.608, 0.3644]"
+    }
+  ],
+  "source": "held-out predictions for the matched test identities"
+}

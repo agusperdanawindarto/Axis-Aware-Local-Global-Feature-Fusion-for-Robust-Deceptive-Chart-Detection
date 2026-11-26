@@ -1,0 +1,7 @@
+comparator,label,delta_pp,ci_low_pp,ci_high_pp,seeds,source
+dinov3_global_avg,DINOv3 global,7.405038398656656,6.380743667501528,8.454781580190748,3,initial 15-run analysis
+swinv2_tiny,SwinV2 Tiny,9.53801256659882,8.421771930945553,10.70589886849059,3,initial 15-run analysis
+ablation_axis,Axis-only,0.20313584962677136,-0.14986757855169675,0.5436365949269995,3,initial 15-run analysis
+ablation_local,Local-only,0.660830540213253,0.3208165328563746,1.0238326974358778,3,initial 15-run analysis
+control_content_matched,Content-region control,0.458569798356645,0.11958842995356748,0.8271870330652943,3,final archived follow-up bootstrap
+control_additive_no_gate,Additive residual control,0.5940428014231447,0.18948733925707217,1.003003085115103,3,final archived follow-up bootstrap

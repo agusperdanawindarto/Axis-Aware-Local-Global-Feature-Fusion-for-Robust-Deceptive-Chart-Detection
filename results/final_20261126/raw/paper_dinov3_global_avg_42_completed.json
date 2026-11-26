@@ -1,0 +1,40 @@
+{
+  "signature": "95fb2f820f86443ae2cc67aabb947b91f6d5369560edd0abd64e829caa8eb21c",
+  "config": {
+    "name": "dinov3_global_avg",
+    "seed": 42,
+    "mode": "paper",
+    "epochs": 20,
+    "res": 256,
+    "batch": 2,
+    "grad_accum": 8,
+    "dino": "vit_large_patch16_dinov3.lvd1689m",
+    "swin": "swinv2_tiny_window16_256.ms_in1k",
+    "split": "c8fc29542853326611668612b0444b7c044853e9ca483c591fba65bbc86b4d7a",
+    "repo": "WieszczUrsynowa/HVPD-HarmfulVisualPlotsDataset",
+    "aug": true,
+    "patience": 5,
+    "min_delta": 0.0005,
+    "min_epochs": 5,
+    "training_protocol": "frozen-backbone-resume-v2-kaggle"
+  },
+  "metrics": {
+    "accuracy": 0.9020639417239984,
+    "balanced_accuracy": 0.9028373562743857,
+    "macro_precision": 0.904985427273398,
+    "macro_recall": 0.9028373562743857,
+    "macro_f1": 0.9019830186205088,
+    "deceptive_recall": 0.9472817133443163,
+    "model": "dinov3_global_avg",
+    "seed": 42,
+    "mode": "paper",
+    "epochs_completed": 20,
+    "best_epoch": 18,
+    "early_stopped": false,
+    "resolution": 256,
+    "params_m": 303.081474,
+    "trainable_params_m": 0.00205,
+    "eval_images_per_second": 9.19900640158149,
+    "val_best_macro_f1": 0.8936551041861519
+  }
+}
